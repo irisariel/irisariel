@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irisariel&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
 
-## 💻 Linguagens mais utilizadas
+## 🗣️ Linguagens mais utilizadas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irisariel&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 

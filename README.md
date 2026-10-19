@@ -1,10 +1,10 @@
-## 🌻 Ooi! Eu sou Íris Ariel!
+## 🌻 HELLO! I am Íris Ariel
 
 - ADS Student | Beginner Developer
 
 
  
-## 🖥️ Tecnologias e ferramentas
+## 🖥️ Technologies and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -19,11 +19,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irisariel&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
 
-## 🗣️ Linguagens mais utilizadas
+## 🗣️ Most used languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irisariel&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 
-## 📧 Como me contactar
+## 📧 How to contact me
 
 - Email: irisariel.pereira@gmail.com

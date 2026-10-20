@@ -22,12 +22,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=false&title_color=FFD700&icon_color=E6B800&text_color=F5E6B3&bg_color=1A1A1A&border_color=D4AF37&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=irisariel&show_icons=true&include_all_commits=true&count_private=false&title_color=FFD700&icon_color=E6B800&text_color=F5E6B3&bg_color=1A1A1A&border_color=D4AF37&locale=pt-br"
     height="180"
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&title_color=FFD700&text_color=F5E6B3&bg_color=1A1A1A&border_color=D4AF37"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisariel&layout=compact&title_color=FFD700&text_color=F5E6B3&bg_color=1A1A1A&border_color=D4AF37"
     height="180"
     alt="Linguagens mais utilizadas"
   />

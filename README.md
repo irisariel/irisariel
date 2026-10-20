@@ -33,12 +33,6 @@
   />
 </p>
 
----
-
-<p align="center">
-  <i>✦ Learning, coding and growing every day ✦</i>
-</p>
-
 
 ## 📧 How to contact me
 

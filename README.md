@@ -13,25 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
-
-
-# ✨ GitHub Statistics
-
-### My Developer Journey
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=irisariel&show_icons=true&include_all_commits=true&count_private=false&title_color=FFD700&icon_color=E6B800&text_color=F5E6B3&bg_color=1A1A1A&border_color=D4AF37&locale=pt-br"
-    height="180"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisariel&layout=compact&title_color=FFD700&text_color=F5E6B3&bg_color=1A1A1A&border_color=D4AF37"
-    height="180"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
 
 
 ## 📧 How to contact me

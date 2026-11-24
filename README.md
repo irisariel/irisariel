@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="images/sunflower-background.png" width="100%">
-</div>
-
-<div align="center">
 
 # 🌻 I am Íris Pereira
 

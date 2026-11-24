@@ -45,7 +45,46 @@ exploring the world of programming and discovering new ways to turn ideas into r
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irisariel&show_icons=true&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0&icon_color=D8B76A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irisariel&layout=compact&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irisariel&layout=compact&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0)
+
+</div>
+
+## 𖤐 My projects
+
+A collection of projects, experiments and ideas that grow with every new thing I learn.
+
+<div align="center">
+
+✦ ─────────── 🌻 ─────────── ✦
+
+</div>
+
+<div align="center">
+
+*"Keep growing towards the light."*
+
+**Thank you for visiting my profile ♡**
+
+☼ ─────────── ✦ ─────────── ☼
+
+</div>
+
+
+
+🎨 Como ficará a identidade do perfil
+Elemento	Personalização
+Fundo	Preto #171717
+Títulos	Dourado #D8B76A
+Textos	Creme #E8E0D0
+Tecnologias	Preto com ícones dourados
+Estatísticas	Fundo preto e detalhes dourados
+Decoração	Girassóis, estrelas e símbolos vintage
+
+Não esqueça: substitua YOUR_USERNAME pelo seu usuário do GitHub nas duas imagens de estatísticas.
+
+Uma observação: a seção de projetos está preparada para receber seus repositórios reais. Podemos adicionar os cartões dos seus projetos quando quiser.
+
+Minha intenção é que o perfil pareça um diário de uma estudante de tecnologia em uma biblioteca antiga, com girassóis espalhados pelas páginas. 🌻🖤
 
 </div>
 

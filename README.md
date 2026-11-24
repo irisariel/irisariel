@@ -2,7 +2,7 @@
 
 # 🌻 I am Íris Pereira
 
-### Software engineer in training
+### ADS Student | Beginner Developer
 
 *“Like a sunflower, always seeking the light.”*
 

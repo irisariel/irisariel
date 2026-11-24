@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌻 Íris Pereira
+# 🌻 I am Íris Pereira
 
 ### Software engineer in training
 
@@ -13,7 +13,7 @@
 
 ## 🌻 About me
 
-Hello! Welcome to my GitHub.
+Hello World! Welcome to my GitHub.
 
 I'm a Systems Analysis and Development student, 
 exploring the world of programming
@@ -51,7 +51,8 @@ and discovering new ways to turn ideas into reality.
 </div>
 
 ## 𖤐 My projects
-...
+
+https://github.com/irisariel/listadetarefas
 
 <div align="center">
 
@@ -60,8 +61,6 @@ and discovering new ways to turn ideas into reality.
 </div>
 
 <div align="center">
-
-*"Keep growing towards the light."*
 
 **Thank you for visiting my profile**
 

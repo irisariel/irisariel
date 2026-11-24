@@ -16,7 +16,8 @@
 Hello! Welcome to my GitHub.
 
 I'm a Systems Analysis and Development student, 
-exploring the world of programming and discovering new ways to turn ideas into reality.
+exploring the world of programming
+and discovering new ways to turn ideas into reality.
 
 
 ## ✦ Technologies
@@ -50,6 +51,7 @@ exploring the world of programming and discovering new ways to turn ideas into r
 </div>
 
 ## 𖤐 My projects
+...
 
 <div align="center">
 

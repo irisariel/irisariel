@@ -43,9 +43,9 @@ exploring the world of programming and discovering new ways to turn ideas into r
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?irisariel=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0&icon_color=D8B76A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?https://github.com/irisariel=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0&icon_color=D8B76A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?irisariel=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/irisariel=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=171717&title_color=D8B76A&text_color=E8E0D0)
 
 </div>
 
